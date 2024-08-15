@@ -7,3 +7,7 @@ The library utilizes a combination of Long Short-Term Memory (LSTM) networks and
 
 https://github.com/user-attachments/assets/c5ae8043-a786-4a1c-a436-2b5be896df90
 
+
+-The project is built on streamlit 
+-To run the project in your system , simply clone the project and run the command "streamlit run app.py" in terminal 
+- Don't forget to install the required packages
