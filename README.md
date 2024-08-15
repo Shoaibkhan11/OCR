@@ -11,3 +11,4 @@ https://github.com/user-attachments/assets/c5ae8043-a786-4a1c-a436-2b5be896df90
 - The project is built on streamlit 
 - To run the project in your system , simply clone the project and run the command "streamlit run app.py" in terminal 
 - Don't forget to install the required packages
+- Note you can download the latest packages , its not necessary to install the same versions as given in the requirements.txt
